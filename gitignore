@@ -1,0 +1,21 @@
+# Datos de trabajo: nunca al repositorio
+*.xlsb
+*.xlsx
+*.xlsm
+*.csv
+*.pdf
+*.json
+!.vscode/*.json
+certificaciones_*/
+config_respaldos/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

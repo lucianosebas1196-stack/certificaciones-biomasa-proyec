@@ -1,0 +1,5 @@
+pandas
+openpyxl
+pyxlsb
+reportlab
+ipywidgets
